@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul1210&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul1210" /> </p>
 
-\*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibul1210" alt="rakibul1210" /></a> </p>*\
-
 - 🔭 I’m currently working on [Machine Learning](https://github.com/Rakibul1210/Football-Transfer-Market-Predictior.git)
 
 - 🌱 I’m currently learning **Flutter**
