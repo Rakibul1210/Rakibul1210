@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
+<img align="center" alt="Coding" width="400px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcfw.paymoapp.com%2Fwp-content%2Fuploads%2F2022%2F11%2Fhow-to-manage-b2b-clients-as-a-solopreneur-9-things-to-know-hero.png&tbnid=kicx0siE8s-YvM&vet=10CN8BEDMosQFqFwoTCKDYxa7h_4MDFQAAAAAdAAAAABAC..i&imgrefurl=https%3A%2F%2Fwww.paymoapp.com%2Fblog%2Fchallenges-project-managers-face-when-adopting-pm-tools%2F&docid=n3abykTXC1RKPM&w=1880&h=700&q=animated%20coding%20gif&ved=0CN8BEDMosQFqFwoTCKDYxa7h_4MDFQAAAAAdAAAAABAC" >
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul1210&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul1210" /> </p>
 -->
 - 🔭 I’m currently working on [Machine Learning](https://github.com/Rakibul1210/Football-Transfer-Market-Predictior.git)
 
-- 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://rakibul1210.github.io/index.html](https://rakibul1210.github.io/index.html)
+
+- 👨‍💻 My github Protfolio [https://rakibul1210.github.io/index.html](https://rakibul1210.github.io/index.html)
 
 - 💬 Ask me about **Python, React & Machine Learning**
 
