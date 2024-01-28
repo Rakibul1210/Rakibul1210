@@ -3,8 +3,8 @@
 
 <img align="right" alt="Coding" width="400px" src="https://cfw.paymoapp.com/wp-content/uploads/2022/11/how-to-manage-b2b-clients-as-a-solopreneur-9-things-to-know-hero.png" >
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul1210&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul1210" /> </p>
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul1210&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul1210" /> </p>
+
 - 🔭 I’m currently working on [Machine Learning](https://github.com/Rakibul1210/Football-Transfer-Market-Predictior.git)
 
 
