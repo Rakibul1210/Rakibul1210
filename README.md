@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate .NET and Python developer</h3>
 
 <img align="right" alt="Coding" width="400px" src="https://cfw.paymoapp.com/wp-content/uploads/2022/11/how-to-manage-b2b-clients-as-a-solopreneur-9-things-to-know-hero.png" >
 
---<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul1210&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul1210" /> </p>
 
 - 🔭 I’m currently working on [Machine Learning & Malware Detection](https://github.com/Rakibul1210/NebulaScan)
 
