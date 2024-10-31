@@ -10,9 +10,10 @@
 
 - 👨‍💻 My github Protfolio [https://rakibul1210.github.io/index.html](https://rakibul1210.github.io/index.html)
 
-- 💬 Ask me about **Python, React & Machine Learning**
+- 💬 Ask me about **.NET, Python& Machine Learning**
 
-- 📫 How to reach me **bsse1210@iit.du.ac.bd**
+- 📫 How to reach me **mri.rakib10@gmail.com**
+- - 📫 How to reach me **bsse1210@iit.du.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
