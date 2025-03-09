@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400px" src="https://cfw.paymoapp.com/wp-content/uploads/2022/11/how-to-manage-b2b-clients-as-a-solopreneur-9-things-to-know-hero.png" >
 
 
-- 🔭 I’m currently working on [Machine Learning & Malware Detection](https://github.com/Rakibul1210/NebulaScan)
+- 🔭 I’m currently working on [Machine Learning ](https://github.com/Rakibul1210/NebulaScan)
 
 
 
