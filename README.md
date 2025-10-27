@@ -1,14 +1,13 @@
 <h1 align="center">👋 Hi, I'm Rakibul Islam</h1>
 <h3 align="center">R&D Engineer | Embedded & Network Systems Developer | ML Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/userupload/11384717/file/original-7e0a7b3319a1e5cfbcb1b7125303b986.png?resize=1024x768&vertical=center" />
 
 - 💼 Currently working as an **R&D Engineer at Shanghai BDCOM Ltd.**
-- 🧠 Specializing in **Layer 2 Network Protocols**, **VPDN**, and **Router/Switch Firmware**
+- 🧠 Specializing in **Network Protocols**, **VPDN**, and **Router/Switch Firmware**
 - 💡 Interested in bridging **embedded networking systems** with **Machine Learning**
 - 🧰 Experienced with **C, Python, .NET**, and **Linux-based system development**
 - 🚀 Building and optimizing high-performance networking software and tools
-- 💬 Ask me about **Network Systems, Embedded C, .NET, or Python**
+- 💬 Ask me about **Network Systems, Embedded C, or Python**
 - 📫 Reach me at **mri.rakib10@gmail.com** or **bsse1210@iit.du.ac.bd**
 - 🌐 Portfolio: [rakibul1210.github.io](https://rakibul1210.github.io)
 
@@ -43,7 +42,7 @@
 ---
 
 ### ⚙️ Current Focus
-- Building reliable, high-speed Layer 2 protocols  
+- Building reliable, high-speed Network protocols  
 - Exploring how **Machine Learning** can enhance **network optimization & anomaly detection**  
 - Writing clean, efficient, and scalable embedded C code  
 - Diving deeper into **network stack architecture** and **system-level debugging**  
@@ -51,7 +50,7 @@
 ---
 
 ### 🌱 Quote I live by
-> “Code is like infrastructure — it’s invisible when it works, but unforgettable when it fails.”
+> “  ”
 
 ---
 
