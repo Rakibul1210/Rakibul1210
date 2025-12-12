@@ -5,7 +5,6 @@
 - 💼 Currently working as an **R&D Engineer at Shanghai BDCOM Ltd.**
 - 🧠 Specializing in **Network Protocols**, **VPDN**, and **Router/Switch Firmware**
 - 🧰 Experienced with **C, Python, .NET**, and **Linux-based system development**
-- 💬 Ask me about **Network Systems, Embedded C, or Python**
 - 📫 Reach me at **mri.rakib10@gmail.com** or **bsse1210@iit.du.ac.bd**
 - 🌐 Portfolio: [rakibul1210.github.io](https://rakibul1210.github.io)
 
