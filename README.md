@@ -1,44 +1,30 @@
-<h1 align="center">👋 Hi, I'm Rakibul Islam</h1>
-<h3 align="center">R&D Engineer | Embedded & Network Systems Developer | ML Enthusiast</h3>
+## Md. Rakibul Islam
 
+I work on systems and networking software, mostly in C.
 
-- 💼 Currently working as an **R&D Engineer at Shanghai BDCOM Ltd.**
-- 🧠 Specializing in **Network Protocols**, **VPDN**, and **Router/Switch Firmware**
-- 🧰 Experienced with **C, Python, .NET**, and **Linux-based system development**
-- 📫 Reach me at **mri.rakib10@gmail.com** or **bsse1210@iit.du.ac.bd**
-- 🌐 Portfolio: [rakibul1210.github.io](https://rakibul1210.github.io)
+For the past year I was an R&D Engineer at Shanghai BDCOM, building firmware for
+enterprise switches on embedded Linux and VxWorks — PPP, PPPoE, PPTP and L2TP
+tunnelling, RADIUS authentication, and protocol debugging on live hardware.
+Before that I taught Computer Fundamentals to undergraduates at Daffodil
+International University.
 
----
+I like problems where the answer is in a specification rather than a tutorial.
+Most of what I put here started with reading an RFC and working out what it
+actually asks for.
 
-<h3 align="left">🧰 Languages & Tools</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-</p>
+Currently doing an MSc in Software Engineering at the Institute of Information
+Technology, University of Dhaka.
 
----
+**What I'm interested in**
+Network protocol design and implementation · software security and vulnerability
+analysis · machine learning applied to security and network anomaly detection ·
+embedded and real-time systems
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul1210&show_icons=true&locale=en&layout=compact" alt="rakibul1210" /></p>
+**Currently**
+Porting a TFTP server from VxWorks to POSIX · learning Playwright for browser
+automation · 900+ problems solved on
+[LeetCode](https://leetcode.com/u/rakibul10/) and
+[Codeforces](https://codeforces.com/profile/RAKIBUL_10)
 
----
-
-### ⚙️ Current Focus
-- Building reliable, high-speed Network protocols  
-- Exploring how **Machine Learning** can enhance **network optimization & anomaly detection**  
-- Writing clean, efficient, and scalable embedded C code  
-- Diving deeper into **network stack architecture** and **system-level debugging**  
-
----
-
-### 🌱 Quote I live by
-> “  ”
-
----
-
+📫 mri.rakib10@gmail.com · bsse1210@iit.du.ac.bd ·
+[LinkedIn](https://linkedin.com/in/rakibulislam725421210/)
