@@ -1,5 +1,5 @@
 <h1 align="center">Md. Rakibul Islam</h1>
-<h3 align="center">Research & Development Engineer · Embedded C · MSc Student, IIT, University of Dhaka</h3>
+<h3 align="center">Research & Development Engineer ·  MSc Student, IIT, University of Dhaka</h3>
 
 ---
 
