@@ -6,7 +6,7 @@
 - 💼 1+ year experience as **R&D Engineer at Shanghai BDCOM**, building router firmware on embedded Linux and VxWorks
 - 🌐 Worked across Netlink protocols like **PPP, PPPoE, PPTP, L2TP** tunnelling and **RADIUS/AAA** authenticatio
 - 🎓 Currently enrolled in **MSc in Software Engineering** at IIT, University of Dhaka
-- 🧑‍🏫 Previously taught **Computer Fundamentals** to undergraduates at Daffodil International University
+- 🧑‍🏫 Another work experience Lecturer(part-time) at Daffodil International University
 - 🧰 Working languages: **C**, Python, JavaScript, C#
 - 📫 **mri.rakib10@gmail.com** · **bsse1210@iit.du.ac.bd**
 - 💼 [LinkedIn](https://linkedin.com/in/rakibulislam725421210/) · [Portfolio](https://rakibul1210.github.io)
