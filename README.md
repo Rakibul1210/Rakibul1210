@@ -1,30 +1,32 @@
-## Md. Rakibul Islam
+<h1 align="center">Md. Rakibul Islam</h1>
+<h3 align="center">Systems & Network Software · Embedded C · MSc Student, IIT, University of Dhaka</h3>
 
-I work on systems and networking software, mostly in C.
+---
 
-For the past year I was an R&D Engineer at Shanghai BDCOM, building firmware for
-enterprise switches on embedded Linux and VxWorks — PPP, PPPoE, PPTP and L2TP
-tunnelling, RADIUS authentication, and protocol debugging on live hardware.
-Before that I taught Computer Fundamentals to undergraduates at Daffodil
-International University.
+- 💼 Previously **R&D Engineer at Shanghai BDCOM**, building switch firmware on embedded Linux and VxWorks
+- 🌐 Worked across **PPP, PPPoE, PPTP, L2TP** tunnelling and **RADIUS/AAA** authentication, debugging protocols on live hardware
+- 🎓 Currently doing an **MSc in Software Engineering** at IIT, University of Dhaka
+- 🧑‍🏫 Previously taught **Computer Fundamentals** to undergraduates at Daffodil International University
+- 🧰 Working languages: **C**, Python, JavaScript, C#
+- 📫 **mri.rakib10@gmail.com** · **bsse1210@iit.du.ac.bd**
+- 🌍 [Portfolio](https://rakibul1210.github.io) · [LinkedIn](https://linkedin.com/in/rakibulislam725421210/)
+
+---
 
 I like problems where the answer is in a specification rather than a tutorial.
-Most of what I put here started with reading an RFC and working out what it
-actually asks for.
+Most of what I put here started with reading an RFC and working out what it actually asks for.
 
-Currently doing an MSc in Software Engineering at the Institute of Information
-Technology, University of Dhaka.
+---
 
-**What I'm interested in**
-Network protocol design and implementation · software security and vulnerability
-analysis · machine learning applied to security and network anomaly detection ·
-embedded and real-time systems
+### Interests
 
-**Currently**
-Porting a TFTP server from VxWorks to POSIX · learning Playwright for browser
-automation · 900+ problems solved on
-[LeetCode](https://leetcode.com/u/rakibul10/) and
-[Codeforces](https://codeforces.com/profile/RAKIBUL_10)
+- Network protocol design and implementation
+- Software security and vulnerability analysis
+- Machine learning applied to security and network anomaly detection
+- Embedded and real-time systems
 
-📫 mri.rakib10@gmail.com · bsse1210@iit.du.ac.bd ·
-[LinkedIn](https://linkedin.com/in/rakibulislam725421210/)
+### Currently
+
+- Porting a TFTP server from VxWorks to Linux/POSIX
+- Learning Playwright for browser automation
+- 900+ problems solved on [LeetCode](https://leetcode.com/u/rakibul10/) and [Codeforces](https://codeforces.com/profile/RAKIBUL_10)
