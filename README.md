@@ -1,10 +1,10 @@
 <h1 align="center">Md. Rakibul Islam</h1>
-<h3 align="center">Systems & Network Software · Embedded C · MSc Student, IIT, University of Dhaka</h3>
+<h3 align="center">Reseacrh & Development Engineer · Embedded C · MSc Student, IIT, University of Dhaka</h3>
 
 ---
 
-- 💼 Previously **R&D Engineer at Shanghai BDCOM**, building switch firmware on embedded Linux and VxWorks
-- 🌐 Worked across **PPP, PPPoE, PPTP, L2TP** tunnelling and **RADIUS/AAA** authentication, debugging protocols on live hardware
+- 💼 1 year+ Experiacne as **R&D Engineer at Shanghai BDCOM**, building router firmware on embedded Linux and VxWorks
+- 🌐 Worked across Netlink protocols like **PPP, PPPoE, PPTP, L2TP** tunnelling and **RADIUS/AAA** authentication, debugging protocols on live hardware
 - 🎓 Currently doing an **MSc in Software Engineering** at IIT, University of Dhaka
 - 🧑‍🏫 Previously taught **Computer Fundamentals** to undergraduates at Daffodil International University
 - 🧰 Working languages: **C**, Python, JavaScript, C#
